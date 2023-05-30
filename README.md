@@ -7,7 +7,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/KOTLIN-blueviolet?style=for-the-badge&logo=kotlin&logoColor=white"> 
 <img src="https://img.shields.io/badge/ANDROID%20STUDIO-green?style=for-the-badge&logo=androidstudio&logoColor=white"> 
-<img src="https://img.shields.io/badge/DART-informational?style=for-the-badge&logo=dart&logoColor=white"> 
+<img src="https://img.shields.io/badge/DART-9cf?style=for-the-badge&logo=dart&logoColor=white"> 
 <img src="https://img.shields.io/badge/FLUTTER-blue?style=for-the-badge&logo=flutter&logoColor=white"> 
 </p>
 
@@ -19,14 +19,18 @@
 <td width="50%">
 <h3 align="center">Memento - Citas estoicas</h3>
 <div align="center">
-<a href=""https://github.com/jdccMobile/Memento" target="_blank"><img src="(https://github.com/jdccMobile/Memento/blob/master/images/mainActivity.png)" width="200" height="400" alt="Memento"></a>
+<a href=""https://github.com/jdccMobile/Memento" target="_blank"><img src="https://github.com/jdccMobile/Memento/blob/master/images/mainActivity.png" width="200" height="400" alt="Memento"></a>
 <p>
 <a href="https://github.com/jdccMobile/Memento" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-lightgrey?style=for-the-badge&logo=github&logoColor=white">
 </a>
-<img src="https://img.shields.io/badge/KOTLIN-blueviolet?style=for-the-badge&logo=kotlin&logoColor=white"> 
+<img src="https://img.shields.io/badge/KOTLIN-blueviolet?style=for-the-badge&logo=kotlin&logoColor=white">
+<a href="https://play.google.com/store/apps/details?id=com.jdccmobile.memento" target="_blank">
+<img src="https://img.shields.io/badge/GOOGLE%20PLAY-green?style=for-the-badge&logo=googleplay&logoColor=white">
+</a>
 </p>
-<p>Esta app te muestra cada día una cita de los mejores filofos estoicos.</p>
+<p>Aprende cada día una lección de los mejores filósofos estoicos. Guarda tus citas favoritas para poder revisarlas siempre que quieras</p>
+</p>Kotlin, vistas XML, Clean Architecture + MVVM, GitFlow, ViewBinding, Dagger Hilt, Cloud Firestore, Room y DataStore Preferences</p>
 </div>                                                                              
 </td>
 <td width="50%">
@@ -39,7 +43,7 @@
 <a href="https://github.com/jdccMobile/PokeCombat" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-lightgrey?style=for-the-badge&logo=github&logoColor=white">
 </a>
-<img src="https://img.shields.io/badge/KOTLIN-blueviolet?style=for-the-badge&logo=kotlin&logoColor=white">                                                                                               
+<img src="https://img.shields.io/badge/KOTLIN-blueviolet?style=for-the-badge&logo=kotlin&logoColor=white">
 </p>
 </p>¿Siempre quisiste vencer a toda la Pokédex? ¡Elige a tu compañero y derrotalos a todos!</p>
 </p>Kotlin, vistas XML, Clean Architecture + MVVM, GitFlow, ViewBinding, Dagger Hilt, Retrofit y DataStore Preferences</p>
