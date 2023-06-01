@@ -30,7 +30,7 @@
 </a>
 </p>
 <p>Aprende cada día una lección de los mejores filósofos estoicos. Guarda tus citas favoritas para poder revisarlas cuando quieras.</p>
-<p>Kotlin, vistas XML, Clean Architecture + MVVM, GitFlow, ViewBinding, Dagger Hilt, Cloud Firestore, Room, DataStore Preferences y AdMob</p>
+<p>Kotlin, vistas XML, Clean Architecture + MVVM, GitFlow, ViewBinding, Dagger Hilt, Cloud Firestore, Room, DataStore Preferences y AdMob.</p>
 </div>    
 </td>                                                                                                                                                                                                                   
 <td width="50%">
@@ -45,7 +45,7 @@
 <img src="https://img.shields.io/badge/ANDROID-43B02A?style=for-the-badge&logo=android&logoColor=white"> 
 <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"> 
 </p>
-<p>¿Siempre quisiste vencer a toda la Pokédex? ¡Elige a tu compañero y derrotalos a todos</p>
+<p>¿Siempre quisiste vencer a toda la Pokédex? ¡Elige a tu compañero y derrotalos a todos.</p>
 <p>Kotlin, vistas XML, Clean Architecture + MVVM, GitFlow, ViewBinding, Dagger Hilt, Retrofit (PokeAPI) y DataStore Preferences.</p><br>
 </div>    
 </td>
@@ -78,8 +78,8 @@
 <img src="https://img.shields.io/badge/DART-9cf?style=for-the-badge&logo=dart&logoColor=white"> 
 <img src="https://img.shields.io/badge/FLUTTER-blue?style=for-the-badge&logo=flutter&logoColor=white"> 
 </p>
-<p>Consulta los resultados, la clasificación y los jugadores de tu equipo favorito en cualquier momento</p>
-<p>Dart, API: API-FOOTBALL, slivers, provider, http y persistent bottom nav bar</p>
+<p>Consulta los resultados, la clasificación y los jugadores de tu equipo favorito en cualquier momento.</p>
+<p>Dart, http (API-FOOTBALL), slivers, provider y persistent bottom nav bar.</p>
 </div>    
 </td> 
   
