@@ -54,7 +54,7 @@
 <td width="50%">
 <h3 align="center">Atrápame si puedes...</h3>
 <div align="center">
-<a href="https://github.com/jdccMobile/AtrapameSiPuedes" target="_blank"><img src="https://github.com/jdccMobile/AtrapameSiPuedes/blob/master/juego.png" width="200" height="400" alt="Memento"></a>
+<a href="https://github.com/jdccMobile/AtrapameSiPuedes" target="_blank"><img src="https://github.com/jdccMobile/AtrapameSiPuedes/blob/master/menu_principal.png" width="200" height="400" alt="Memento"></a>
 <p>
 <a href="https://github.com/jdccMobile/AtrapameSiPuedes" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-lightgrey?style=for-the-badge&logo=github&logoColor=white">
