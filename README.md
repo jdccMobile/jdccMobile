@@ -52,7 +52,7 @@
                                                                                                          
 <tr>
 <td width="50%">
-<h3 align="center">Atrápame si puedes...</h3>
+<h3 align="center">Atrápame, si puedes...</h3>
 <div align="center">
 <a href="https://github.com/jdccMobile/AtrapameSiPuedes" target="_blank"><img src="https://github.com/jdccMobile/AtrapameSiPuedes/blob/master/menu_principal.png" width="200" height="400" alt="Memento"></a>
 <p>
