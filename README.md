@@ -79,7 +79,7 @@
 <img src="https://img.shields.io/badge/FLUTTER-blue?style=for-the-badge&logo=flutter&logoColor=white"> 
 </p>
 <p>Consulta los resultados, la clasificación y los jugadores de tu equipo favorito en cualquier momento</p>
-<p>Dart, API: API-FOOTBALL, slivers, provider, http y persisten bottom nav bar</p>
+<p>Dart, API: API-FOOTBALL, slivers, provider, http y persistent bottom nav bar</p>
 </div>    
 </td> 
   
