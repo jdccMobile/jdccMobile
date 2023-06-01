@@ -46,7 +46,7 @@
 <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"> 
 </p>
 <p>¿Siempre quisiste vencer a toda la Pokédex? ¡Elige a tu compañero y derrotalos a todos</p>
-<p>Kotlin, vistas XML, Clean Architecture + MVVM, GitFlow, ViewBinding, Dagger Hilt, Retrofit y DataStore Preferences</p><br>
+<p>Kotlin, vistas XML, Clean Architecture + MVVM, GitFlow, ViewBinding, Dagger Hilt, Retrofit (PokeAPI) y DataStore Preferences.</p><br>
 </div>    
 </td>
                                                                                                          
@@ -63,7 +63,7 @@
 <img src="https://img.shields.io/badge/ANDROID-43B02A?style=for-the-badge&logo=android&logoColor=white"> 
 </p>
 <p>¡Encuentra al rey antes de que se te acabe el tiempo! Pero cuidado cada vez se esconderá mejor.</p>
-<p>Kotlin, vistas XML, ViewBinding, SharedPreferences y AdMob</p><br>
+<p>Kotlin, vistas XML, ViewBinding, SharedPreferences y AdMob.</p><br>
 </div>    
 </td>
   
