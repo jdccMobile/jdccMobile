@@ -3,7 +3,7 @@
 </div>
 
 
-<p align="center">Trabajando duro cada día para convertirme en un Mobile Developer<br />Echa un ojo a mi app <a href="https://play.google.com/store/apps/details?id=com.jdccmobile.memento">Memento - Citas estoicas</a> disponible en la Google Play y otras aplicaciones publicadas en mi perfil</p>
+<p align="center">Trabajando duro cada día para mejorar como Mobile Developer<br />Echa un ojo a mi app <a href="https://play.google.com/store/apps/details?id=com.jdccmobile.memento">Memento - Citas estoicas</a> disponible en la Google Play y otras aplicaciones publicadas en mi perfil</p>
 <p align="center">
 <img src="https://img.shields.io/badge/KOTLIN-blueviolet?style=for-the-badge&logo=kotlin&logoColor=white"> 
 <img src="https://img.shields.io/badge/ANDROID-43B02A?style=for-the-badge&logo=android&logoColor=white"> 
