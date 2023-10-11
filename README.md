@@ -52,18 +52,19 @@
                                                                                                          
 <tr>
 <td width="50%">
-<h3 align="center">Atrápame, si puedes...</h3>
+<h3 align="center">DevExpert Challenge</h3>
 <div align="center">
-<a href="https://github.com/jdccMobile/AtrapameSiPuedes" target="_blank"><img src="https://github.com/jdccMobile/AtrapameSiPuedes/blob/master/menu_principal.png" width="200" height="400" alt="Memento"></a>
+<a href="https://github.com/jdccMobile/DevexpertChallenge" target="_blank"><img src="https://github.com/jdccMobile/DevexpertChallenge/blob/master/images/homeScreen.png" width="200" height="400" alt="Memento"></a>
 <p>
-<a href="https://github.com/jdccMobile/AtrapameSiPuedes" target="_blank">
+<a href="https://github.com/jdccMobile/DevexpertChallenge" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-lightgrey?style=for-the-badge&logo=github&logoColor=white">
 </a>
 <img src="https://img.shields.io/badge/KOTLIN-blueviolet?style=for-the-badge&logo=kotlin&logoColor=white">
-<img src="https://img.shields.io/badge/ANDROID-43B02A?style=for-the-badge&logo=android&logoColor=white"> 
+<img src="https://img.shields.io/badge/ANDROID-43B02A?style=for-the-badge&logo=android&logoColor=white">
+<img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
 </p>
-<p>¡Encuentra al rey antes de que se te acabe el tiempo! Pero cuidado cada vez se esconderá mejor.</p>
-<p>Kotlin, vistas XML, ViewBinding, SharedPreferences y AdMob.</p><br>
+<p>Desafio de 7 días de DevExpert en el que crear una app que cumpla los requisitos mínimos que se piden en una oferta laboral.</p>
+<p>Kotlin, vistas XML, ViewBinding, MVVM, Live Data, Retrofit, Room, Corrutinas y Mockito.</p><br>
 </div>    
 </td>
   
